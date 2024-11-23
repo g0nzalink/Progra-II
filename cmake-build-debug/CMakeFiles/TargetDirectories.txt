@@ -1,0 +1,3 @@
+C:/Users/ferdi/CLionProjects/Proyecto_Progra II/Dots&Boxes/cmake-build-debug/CMakeFiles/Dots_Boxes.dir
+C:/Users/ferdi/CLionProjects/Proyecto_Progra II/Dots&Boxes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ferdi/CLionProjects/Proyecto_Progra II/Dots&Boxes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
