@@ -4,12 +4,10 @@
 
 #ifndef CCLASES_H
 #define CCLASES_H
+#include <iostream>
+#include <vector>
+using namespace std;
 
-
-
-class CCLases {
-
-};
 
 
 
