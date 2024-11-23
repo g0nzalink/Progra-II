@@ -3,4 +3,6 @@ project(Dots_Boxes)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Dots_Boxes main.cpp)
+add_executable(Dots_Boxes main.cpp
+        CCLases.cpp
+        CCLases.h)
